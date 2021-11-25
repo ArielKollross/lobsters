@@ -122,3 +122,4 @@ Basic moderation happens on-site, but most other administrative tasks require us
 Administrators can create and edit tags at `/tags`.
 
 edit_test_1
+edit_test_2
